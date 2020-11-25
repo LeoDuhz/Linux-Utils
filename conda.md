@@ -13,7 +13,7 @@ source deactivate
 conda info --envs / conda info -e / conda env list
 conda create --name <new_env_name> --clone <copied_env_name>
 conda remove --name <env_name> --all
-conda search --ful-name <package_full_name>
+conda search --full-name <package_full_name>
 conda search <text>
 conda list
 conda install --name <env_name> <package_name>
@@ -27,3 +27,4 @@ conda update <package_name> / conda upgrade <package_name>
 
 ```
 
+#### 
