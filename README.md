@@ -8,3 +8,5 @@ basic linux command & knowledge
 conda command
 
 git alias
+
+ros install
