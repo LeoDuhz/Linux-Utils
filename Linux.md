@@ -1,3 +1,4 @@
 - sources.list https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/
 - ros http://wiki.ros.org/melodic/Installation/Ubuntu
 - imwheel https://blog.csdn.net/a244068468/article/details/88364226
+- albert https://albertlauncher.github.io/installing/
