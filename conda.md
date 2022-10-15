@@ -27,4 +27,3 @@ conda update <package_name> / conda upgrade <package_name>
 
 ```
 
-#### 
