@@ -51,9 +51,21 @@ Foxit PDF READER https://www.foxit.com/pdf-reader/
 
 Typora https://zahui.fan/posts/64b52e0d/
 
+Albert https://albertlauncher.github.io/installing/
+
+imwheel https://blog.csdn.net/a244068468/article/details/88364226
+
+Anydesk https://anydesk.com/en
+
+Baidu Netdisk https://pan.baidu.com/download?from=header#linux
+
+Brightness Controller https://blog.csdn.net/weixin_44120025/article/details/118875998
+
+Sublime Merge
+
 
 ## 7. apt install
-sudo apt install vim git gcc python3-pip 
+sudo apt install vim git gcc python3-pip cmake curl
 
 ## 8. install ClashX
 https://glados.rocks/console/clash
@@ -85,8 +97,10 @@ then set up the webdev for sychronization
 
 ## 11. ROS
 
-git clone git@github.com:LeoDuhz/Linux-command.git
+git clone git@github.com:LeoDuhz/Linux-Utils.git
 
-cd Linux-command/ros
+cd Linux-Utils/ros
+
+chomd +x install-ros-noetic.bash
 
 ./install-ros-noetic.bash
